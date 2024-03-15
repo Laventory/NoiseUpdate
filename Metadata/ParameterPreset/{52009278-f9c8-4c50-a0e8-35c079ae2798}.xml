@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{52009278-f9c8-4c50-a0e8-35c079ae2798}">
+		<property name="name">
+			<value>swapmode</value>
+		</property>
+		<relationship name="folder">
+			<destination>{875f5071-60cc-4d3c-8f52-cc54b0c3b7e8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{59caea44-1a87-4786-9a46-85d1135185b1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{59caea44-1a87-4786-9a46-85d1135185b1}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

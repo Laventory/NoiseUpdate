@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{04173727-1107-417b-8542-e72f3bf915c2}">
+		<property name="assetPath">
+			<value>noiseupdate/sfx/selectscream.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5823125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c87c9181-9f30-4ff2-96a4-1529b80d2812}</destination>
+		</relationship>
+	</object>
+</objects>

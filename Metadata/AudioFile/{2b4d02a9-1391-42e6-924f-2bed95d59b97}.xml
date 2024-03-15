@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2b4d02a9-1391-42e6-924f-2bed95d59b97}">
+		<property name="assetPath">
+			<value>sfx/music_null.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>41.735979166666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c87c9181-9f30-4ff2-96a4-1529b80d2812}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d98c662b-d95a-4b5a-8903-99eac4e3eb67}">
+		<property name="assetPath">
+			<value>noiseupdate/sfx/menuexplosions.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.5432708333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c87c9181-9f30-4ff2-96a4-1529b80d2812}</destination>
+		</relationship>
+	</object>
+</objects>
