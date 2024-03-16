@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0039f25b-836d-40a4-8965-f0b5ac066e7d}">
 		<property name="assetPath">
-			<value>noiseupdate/music/plage noise.wav</value>
+			<value>music/plage noise.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

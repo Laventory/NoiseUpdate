@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{3352bbb5-9ecf-4ebb-a553-20851bb507a7}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/titlecard1.wav</value>
+			<value>sfx/titlecard1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

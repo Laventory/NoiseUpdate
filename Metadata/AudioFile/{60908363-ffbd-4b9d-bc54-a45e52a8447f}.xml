@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{60908363-ffbd-4b9d-bc54-a45e52a8447f}">
 		<property name="assetPath">
-			<value>noiseupdate/music/64 BONUS Move It, Boy.wav</value>
+			<value>music/64 BONUS Move It, Boy.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

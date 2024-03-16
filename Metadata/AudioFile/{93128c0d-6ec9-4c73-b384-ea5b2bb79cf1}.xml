@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{93128c0d-6ec9-4c73-b384-ea5b2bb79cf1}">
 		<property name="assetPath">
-			<value>noiseupdate/music/bloodsauce noise.wav</value>
+			<value>music/bloodsauce noise.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

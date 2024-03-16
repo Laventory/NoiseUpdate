@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{fa01dec8-6027-428b-a6a3-574e2ec29ff2}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/airspin.wav</value>
+			<value>sfx/airspin.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{66add952-21d5-4f6d-a880-69d459ac475f}">
 		<property name="assetPath">
-			<value>noiseupdate/music/war noise.wav</value>
+			<value>music/war noise.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

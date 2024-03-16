@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{203956e4-8438-478f-ba08-d50f717aebee}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/doublejump2.wav</value>
+			<value>sfx/doublejump2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

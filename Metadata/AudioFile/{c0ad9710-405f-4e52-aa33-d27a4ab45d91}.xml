@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{c0ad9710-405f-4e52-aa33-d27a4ab45d91}">
 		<property name="assetPath">
-			<value>noiseupdate/music/pizzascape noise.wav</value>
+			<value>music/pizzascape noise.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

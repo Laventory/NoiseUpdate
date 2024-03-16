@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{289b328c-2a6b-46c1-8bdc-ebad54e50581}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/ghostdash2.wav</value>
+			<value>sfx/ghostdash2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e69499b5-4107-4e0e-b43f-6b440aa86c60}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/pigthrow2.wav</value>
+			<value>sfx/pigthrow2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

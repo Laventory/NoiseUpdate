@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{90ffbbbd-cdd8-4a48-8882-2a753bb4937b}">
 		<property name="assetPath">
-			<value>noiseupdate/music/wasteyard noise.wav</value>
+			<value>music/wasteyard noise.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

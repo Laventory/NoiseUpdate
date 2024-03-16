@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f99714fe-fcd0-4274-84a7-9f705bc3da75}">
 		<property name="assetPath">
-			<value>noiseupdate/music/World_Wide_Noise_v6_yo_how_many_times_am_i_just_gonna_keep_chan.wav</value>
+			<value>music/World_Wide_Noise_v6_yo_how_many_times_am_i_just_gonna_keep_chan.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

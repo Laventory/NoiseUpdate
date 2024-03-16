@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f90d4877-939c-4b74-9230-0314a92daeb4}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/doiserock.wav</value>
+			<value>sfx/doiserock.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

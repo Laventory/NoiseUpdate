@@ -2,10 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0db9c4c4-142e-459d-86cd-c37fdd6570ec}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/Noise_Intro_2.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>sfx/Noise_Intro_2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

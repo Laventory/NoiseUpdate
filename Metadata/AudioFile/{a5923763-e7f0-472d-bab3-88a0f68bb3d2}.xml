@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{a5923763-e7f0-472d-bab3-88a0f68bb3d2}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/skateboardjump.wav</value>
+			<value>sfx/skateboardjump.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{481014b7-6901-4b53-a2f2-ff7f177dd4e3}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/machcancel2.wav</value>
+			<value>sfx/machcancel2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

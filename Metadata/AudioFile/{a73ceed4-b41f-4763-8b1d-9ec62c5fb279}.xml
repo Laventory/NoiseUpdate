@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{a73ceed4-b41f-4763-8b1d-9ec62c5fb279}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/noisedemonscream.wav</value>
+			<value>sfx/noisedemonscream.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

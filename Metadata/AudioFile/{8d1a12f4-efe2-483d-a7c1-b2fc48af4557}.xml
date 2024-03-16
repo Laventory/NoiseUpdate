@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{8d1a12f4-efe2-483d-a7c1-b2fc48af4557}">
 		<property name="assetPath">
-			<value>noiseupdate/music/noisefinalescape.wav</value>
+			<value>music/noisefinalescape.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

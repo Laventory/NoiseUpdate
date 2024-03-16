@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{24c9345c-3d70-46c1-b716-c47668d676e1}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/tornado.wav</value>
+			<value>sfx/tornado.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

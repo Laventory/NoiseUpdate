@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{3bf39e10-a057-48d5-bbcf-e4729ec46515}">
 		<property name="assetPath">
-			<value>noiseupdate/music/lario noise.wav</value>
+			<value>music/lario noise.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{de056c15-b6fb-41aa-887c-00ba894ca708}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/mortcatch.wav</value>
+			<value>sfx/mortcatch.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

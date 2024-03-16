@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{71c305c8-0f0f-4d2b-995e-02c099a2a4a8}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/mach3step.wav</value>
+			<value>sfx/mach3step.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b1777fb7-3a51-4cca-bae9-58d0e1ad3749}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/finaljudgement2.wav</value>
+			<value>sfx/finaljudgement2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

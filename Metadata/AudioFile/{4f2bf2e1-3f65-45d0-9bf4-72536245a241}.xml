@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{4f2bf2e1-3f65-45d0-9bf4-72536245a241}">
 		<property name="assetPath">
-			<value>noiseupdate/music/deep dish noise.wav</value>
+			<value>music/deep dish noise.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

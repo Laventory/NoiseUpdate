@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{061c336b-c586-4f61-9ccd-bc7c9be41f3f}">
 		<property name="assetPath">
-			<value>noiseupdate/sfx/firemouth.wav</value>
+			<value>sfx/firemouth.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

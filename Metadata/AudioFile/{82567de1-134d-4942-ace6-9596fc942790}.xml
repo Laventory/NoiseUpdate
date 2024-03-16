@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{82567de1-134d-4942-ace6-9596fc942790}">
 		<property name="assetPath">
-			<value>noiseupdate/music/mort the noise.wav</value>
+			<value>music/mort the noise.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
