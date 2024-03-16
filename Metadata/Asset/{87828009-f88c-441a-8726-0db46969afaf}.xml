@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{87828009-f88c-441a-8726-0db46969afaf}">
+		<property name="assetPath">
+			<value>noiseupdate/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c87c9181-9f30-4ff2-96a4-1529b80d2812}</destination>
+		</relationship>
+	</object>
+</objects>

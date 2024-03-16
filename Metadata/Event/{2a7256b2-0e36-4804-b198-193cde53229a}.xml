@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{2a7256b2-0e36-4804-b198-193cde53229a}">
 		<property name="note">
-			<value>unused event in the original banks</value>
+			<value>unused event originally</value>
 		</property>
 		<property name="name">
 			<value>medley</value>

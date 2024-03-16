@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{13e8aeb4-dfd3-4ac3-932f-2e0315e53cba}">
-		<property name="note" />
 		<property name="name">
 			<value>towercollapsetrack</value>
 		</property>
@@ -211,6 +210,9 @@
 		<property name="length">
 			<value>0.81914583333333335</value>
 		</property>
+		<property name="volume">
+			<value>2</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{36058f07-afb9-4fa2-90d5-1ee024622081}</destination>
 		</relationship>
@@ -221,6 +223,9 @@
 		</property>
 		<property name="length">
 			<value>1.75</value>
+		</property>
+		<property name="volume">
+			<value>6</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{78c27083-3ee8-468c-abee-534b50bf2aae}</destination>

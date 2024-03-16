@@ -4,13 +4,17 @@
 		<relationship name="projectSettings">
 			<destination>{882ba576-d7b1-4b23-8b33-9aae578b98e1}</destination>
 		</relationship>
+		<relationship name="changelist">
+			<destination>{cf0e36d7-852e-452e-a10b-1961018f8540}</destination>
+		</relationship>
 	</object>
 	<object class="ProjectSettings" id="{882ba576-d7b1-4b23-8b33-9aae578b98e1}">
 		<property name="windowLayout">
-			<value>AAAAAQAAAB4ATQBpAHgAZQByACAAUgBvAHUAdABpAG4AZwAgADEAAABCAdnQywADAAAAAAL3AAAAjgAABIgAAAOEAAAC+AAAALQAAASHAAADgwAAAAAAAAAAB4AAAAL4AAAAtAAABIcAAAOD</value>
+			<value>AAAAAwAAACAAUAByAGUAcwBlAHQAIABCAHIAbwB3AHMAZQByACAAMQAAAEIB2dDLAAMAAAAAAvcAAACOAAAEiAAAA4QAAAL4AAAAtAAABIcAAAODAAAAAAAAAAAHgAAAAvgAAAC0AAAEhwAAA4MAAAAeAE0AaQB4AGUAcgAgAFIAbwB1AHQAaQBuAGcAIAAxAAAAQgHZ0MsAAwAAAAAC9wAAAI4AAASIAAADhAAAAvgAAAC0AAAEhwAAA4MAAAAAAAAAAAeAAAAC+AAAALQAAASHAAADgwAAAB4ARQB2AGUAbgB0ACAAQgByAG8AdwBzAGUAcgAgADEAAABCAdnQywADAAAAAAL3AAAAjgAABIgAAAOEAAAC+AAAALQAAASHAAADgwAAAAAAAAAAB4AAAAL4AAAAtAAABIcAAAOD</value>
 		</property>
 		<relationship name="activePlatform">
 			<destination>{1c7cd283-45b6-4440-8974-93799eec1e16}</destination>
 		</relationship>
 	</object>
+	<object class="WorkspaceChangelist" id="{cf0e36d7-852e-452e-a10b-1961018f8540}" />
 </objects>

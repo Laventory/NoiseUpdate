@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{ad7916b3-a27e-4e29-be48-30d6c86cd55a}">
+		<property name="note">
+			<value>sound files unused in original</value>
+		</property>
 		<property name="name">
 			<value>rushdownend</value>
 		</property>
@@ -110,6 +113,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{a66a9af7-1227-452f-806d-0037dc64f0f5}">
+		<property name="volume">
+			<value>-80</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -133,6 +139,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{47e58144-d61a-4b01-b888-64bedbf339a2}">
+		<property name="volume">
+			<value>-78</value>
+		</property>
 		<property name="name">
 			<value>Audio 2</value>
 		</property>

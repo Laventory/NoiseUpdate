@@ -23,7 +23,7 @@
 			<destination>{6dd59982-05df-48eb-856f-3baed528dcb7}</destination>
 		</relationship>
 		<relationship name="markerTracks">
-			<destination>{6f61b566-827d-49c2-a35e-2185f9d7b24c}</destination>
+			<destination>{96ebe029-e88d-4494-8919-c0fdc530ee36}</destination>
 		</relationship>
 		<relationship name="groupTracks">
 			<destination>{b523a240-0513-4219-a054-ab7ae3495925}</destination>
@@ -57,7 +57,7 @@
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{6dd59982-05df-48eb-856f-3baed528dcb7}" />
-	<object class="MarkerTrack" id="{6f61b566-827d-49c2-a35e-2185f9d7b24c}" />
+	<object class="MarkerTrack" id="{96ebe029-e88d-4494-8919-c0fdc530ee36}" />
 	<object class="GroupTrack" id="{b523a240-0513-4219-a054-ab7ae3495925}">
 		<relationship name="modules">
 			<destination>{48d712b2-6071-477e-929d-3d5f085572ca}</destination>
@@ -97,6 +97,9 @@
 	<object class="SingleSound" id="{48d712b2-6071-477e-929d-3d5f085572ca}">
 		<property name="length">
 			<value>13.471145833333333</value>
+		</property>
+		<property name="volume">
+			<value>-14</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{e2e99e64-b479-48f0-818f-cb40110f968e}</destination>
