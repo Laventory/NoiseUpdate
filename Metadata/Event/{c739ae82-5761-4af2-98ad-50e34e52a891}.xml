@@ -583,10 +583,10 @@
 	</object>
 	<object class="SingleSound" id="{4b16cc05-c283-4bf3-8ac2-a0e18b2edbba}">
 		<property name="start">
-			<value>896.87937167237214</value>
+			<value>896.72262966262724</value>
 		</property>
 		<property name="length">
-			<value>40.186878327627909</value>
+			<value>40.343620337372812</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{f99714fe-fcd0-4274-84a7-9f705bc3da75}</destination>
@@ -597,7 +597,7 @@
 			<value>760.19500000000005</value>
 		</property>
 		<property name="length">
-			<value>136.68437167237204</value>
+			<value>136.52762966262713</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{f99714fe-fcd0-4274-84a7-9f705bc3da75}</destination>
@@ -1267,7 +1267,7 @@
 			<value>760.19500000000005</value>
 		</property>
 		<property name="length">
-			<value>136.68437167237204</value>
+			<value>136.52762966262713</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{035dc6d8-0a0d-47ef-990d-71bf30d544e1}</destination>
@@ -1278,10 +1278,10 @@
 	</object>
 	<object class="TransitionRegion" id="{6d473d42-e637-42d4-b5e7-4359fe6c9348}">
 		<property name="position">
-			<value>896.87937167237214</value>
+			<value>896.72262966262724</value>
 		</property>
 		<property name="length">
-			<value>40.186878327627937</value>
+			<value>40.34362033737284</value>
 		</property>
 		<property name="transitionOffset">
 			<value>1</value>
