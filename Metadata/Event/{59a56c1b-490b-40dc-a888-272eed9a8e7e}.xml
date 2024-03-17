@@ -123,12 +123,6 @@
 		<property name="length">
 			<value>75.428562499999998</value>
 		</property>
-		<property name="triggerProbabilityEnabled">
-			<value>true</value>
-		</property>
-		<property name="triggerProbability">
-			<value>0</value>
-		</property>
 		<relationship name="timeline">
 			<destination>{a81a0707-4402-4660-bf9b-7d7eb0181cca}</destination>
 		</relationship>

@@ -146,10 +146,13 @@
 	</object>
 	<object class="MultiSound" id="{89b4fd5e-5ae1-4364-a311-e86989323cee}">
 		<property name="length">
-			<value>1.4497916666666666</value>
+			<value>0.81914583333333335</value>
 		</property>
 		<relationship name="automators">
 			<destination>{42d04fd1-06a3-458a-afc4-c17988acea6b}</destination>
+		</relationship>
+		<relationship name="fadeOutCurve">
+			<destination>{4c2363c2-cd20-4acd-8216-9c6283c6096a}</destination>
 		</relationship>
 		<relationship name="sounds">
 			<destination>{b86b69d2-028c-49a7-9b68-552f51a1a95f}</destination>
@@ -220,6 +223,14 @@
 			<destination>{7379502b-e880-4c8c-9ff4-904dff43d9b2}</destination>
 		</relationship>
 	</object>
+	<object class="FadeCurve" id="{4c2363c2-cd20-4acd-8216-9c6283c6096a}">
+		<relationship name="startPoint">
+			<destination>{d9802126-da80-4361-b670-878f6a357fd8}</destination>
+		</relationship>
+		<relationship name="endPoint">
+			<destination>{b2572f30-33d5-4bba-8fc6-704a770a18d6}</destination>
+		</relationship>
+	</object>
 	<object class="SingleSound" id="{b86b69d2-028c-49a7-9b68-552f51a1a95f}">
 		<relationship name="audioFile">
 			<destination>{36058f07-afb9-4fa2-90d5-1ee024622081}</destination>
@@ -267,6 +278,25 @@
 			<destination>{4b3a015b-5575-46ad-b97e-2eb905c52da9}</destination>
 			<destination>{d00d0cd8-e5c1-462f-b621-faa6abb03cf5}</destination>
 		</relationship>
+	</object>
+	<object class="AutomationPoint" id="{d9802126-da80-4361-b670-878f6a357fd8}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="value">
+			<value>1</value>
+		</property>
+		<property name="curveShape">
+			<value>0.25471893</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{b2572f30-33d5-4bba-8fc6-704a770a18d6}">
+		<property name="position">
+			<value>0.81914583333333335</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
 	</object>
 	<object class="AutomationCurve" id="{14bddfaf-faca-4d0b-8d4a-c4bba6841773}">
 		<relationship name="parameter">
