@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{55297658-8803-4c9d-aab5-5737b9b17cd7}">
 		<property name="assetPath">
-			<value>noiseupdate/music/DISTASTEFUL_ANCHOVI_JC_RE-EDIT_v5c.wav</value>
+			<value>music/DISTASTEFUL_ANCHOVI_JC_RE-EDIT_v5c.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{1fdaf16a-8d43-4ed3-a7b7-24067608ad33}">
 		<property name="assetPath">
-			<value>noiseupdate/music/byebyethere_remix_2_new_mix.wav</value>
+			<value>music/byebyethere_remix_2_new_mix.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

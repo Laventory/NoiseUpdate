@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{55de8202-9baa-4caa-a35e-3c3b9e9fbc56}">
 		<property name="assetPath">
-			<value>noiseupdate/music/Pizza_Tower_OST_-_The_Noises_Jam-Packed_Radical_Anthem.wav</value>
+			<value>music/Pizza_Tower_OST_-_The_Noises_Jam-Packed_Radical_Anthem.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

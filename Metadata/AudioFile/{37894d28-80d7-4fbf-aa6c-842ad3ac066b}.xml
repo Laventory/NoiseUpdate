@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{37894d28-80d7-4fbf-aa6c-842ad3ac066b}">
 		<property name="assetPath">
-			<value>noiseupdate/music/UNEXPECTANCY_CLASCYJITTO_I_GATCHA_PASSWORD_REMIX_v2.wav</value>
+			<value>music/UNEXPECTANCY_CLASCYJITTO_I_GATCHA_PASSWORD_REMIX_v2.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

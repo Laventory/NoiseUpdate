@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f11317cc-f179-493e-bf00-0189ce96ee6d}">
 		<property name="assetPath">
-			<value>noiseupdate/music/New_Noise_Resolutionz_v4.wav</value>
+			<value>music/New_Noise_Resolutionz_v4.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

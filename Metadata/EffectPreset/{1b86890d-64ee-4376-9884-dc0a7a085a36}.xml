@@ -19,7 +19,7 @@
 			<value>100</value>
 		</property>
 		<property name="maximumDistance">
-			<value>2500</value>
+			<value>900</value>
 		</property>
 		<property name="overrideRange">
 			<value>true</value>

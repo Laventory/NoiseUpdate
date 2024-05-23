@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{17714d23-a334-49f8-91df-6c1686932871}">
 		<property name="assetPath">
-			<value>noiseupdate/music/Pizza_Tower_OST_-_Doise_At_the_Door(1).wav</value>
+			<value>music/Pizza_Tower_OST_-_Doise_At_the_Door(1).wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

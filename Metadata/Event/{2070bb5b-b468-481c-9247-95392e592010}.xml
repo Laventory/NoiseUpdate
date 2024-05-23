@@ -537,7 +537,7 @@
 			<value>242.40000000000001</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{431d7bcd-7124-4143-a75f-c18df557e93c}</destination>
+			<destination>{37894d28-80d7-4fbf-aa6c-842ad3ac066b}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{3d81fddc-c76c-4651-a1b5-be7f1b9a4c2f}">
@@ -564,6 +564,9 @@
 		<property name="length">
 			<value>139.20264583333335</value>
 		</property>
+		<property name="name">
+			<value>Phase 1 Loop</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
 		</relationship>
@@ -577,6 +580,9 @@
 		</property>
 		<property name="length">
 			<value>19.227354166666647</value>
+		</property>
+		<property name="name">
+			<value>Transition Loop</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
@@ -592,6 +598,9 @@
 		<property name="length">
 			<value>126.01809575724397</value>
 		</property>
+		<property name="name">
+			<value>Phase 2 Loop</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
 		</relationship>
@@ -605,6 +614,9 @@
 		</property>
 		<property name="length">
 			<value>57.620000000000005</value>
+		</property>
+		<property name="name">
+			<value>P Pizzahead Loop</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
@@ -661,6 +673,9 @@
 		</property>
 		<property name="length">
 			<value>19.200000000000045</value>
+		</property>
+		<property name="name">
+			<value>P Transition Loop</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
@@ -851,6 +866,9 @@
 		<property name="length">
 			<value>153.60497089167779</value>
 		</property>
+		<property name="name">
+			<value>P Bossrush Loop</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
 		</relationship>
@@ -943,7 +961,7 @@
 			<value>626.80983639909243</value>
 		</property>
 		<property name="length">
-			<value>4.6438417618270478</value>
+			<value>4.7951575717000878</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
@@ -980,7 +998,7 @@
 	</object>
 	<object class="NamedMarker" id="{5620f55a-51af-42a1-bdde-ded0ea583b5b}">
 		<property name="position">
-			<value>631.45367816091948</value>
+			<value>631.60499397079252</value>
 		</property>
 		<property name="name">
 			<value>Marker E</value>
@@ -999,6 +1017,9 @@
 		<property name="length">
 			<value>159.81898714795045</value>
 		</property>
+		<property name="name">
+			<value>N Bossrush Loop</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
 		</relationship>
@@ -1011,10 +1032,10 @@
 	</object>
 	<object class="TransitionRegion" id="{a1ec50ae-1332-49a1-a251-deae8a68cd61}">
 		<property name="position">
-			<value>636.40318662347408</value>
+			<value>636.17906331671827</value>
 		</property>
 		<property name="length">
-			<value>157.65255403744544</value>
+			<value>157.87093668328185</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
@@ -1075,6 +1096,9 @@
 		</property>
 		<property name="length">
 			<value>45.549136270721021</value>
+		</property>
+		<property name="name">
+			<value>N Pizzahead Loop</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{63686805-2d15-4e37-88af-ae4659b9463a}</destination>
@@ -1271,9 +1295,6 @@
 		</relationship>
 		<relationship name="endPoint">
 			<destination>{5e50806f-f535-4f94-aa8f-9aa9ed2993de}</destination>
-		</relationship>
-		<relationship name="relatedModule">
-			<destination>{ab1f5143-6c52-4bb9-86ea-6087b5e8528d}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceFadeOutCurve" id="{6a9e2df5-97fe-426b-906e-75ec51c9b54d}">
@@ -1587,10 +1608,13 @@
 	</object>
 	<object class="ParameterCondition" id="{a60c760b-fcbc-46f2-925d-22444fdcd3b6}">
 		<property name="minimum">
-			<value>1</value>
+			<value>0</value>
 		</property>
 		<property name="maximum">
-			<value>1</value>
+			<value>0</value>
+		</property>
+		<property name="isInverted">
+			<value>true</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{59caea44-1a87-4786-9a46-85d1135185b1}</destination>
@@ -1975,7 +1999,7 @@
 	</object>
 	<object class="AutomationPoint" id="{5e50806f-f535-4f94-aa8f-9aa9ed2993de}">
 		<property name="position">
-			<value>3</value>
+			<value>1</value>
 		</property>
 		<property name="value">
 			<value>1</value>
